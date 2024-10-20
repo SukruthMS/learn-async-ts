@@ -30,7 +30,7 @@ const array2D_3 = [
     [7, 8, -9]
 ];
 
-logRowsWithNegativeNumbers([])
+logRowsWithNegativeNumbers(array2D_3)
     .then(() => {
     })
     .catch((error) => {
